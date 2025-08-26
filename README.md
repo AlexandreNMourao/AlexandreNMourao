@@ -1,4 +1,6 @@
 ## Alexandre Mourão
+
+Meu nome é Alexandre, tenho 25 anos, sou do Rio de Janeiro e sou um desenvolvedor back-end, com foco em Python e Django
 <!--
 **AlexandreNMourao/AlexandreNMourao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
